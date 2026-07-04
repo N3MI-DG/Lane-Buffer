@@ -10,7 +10,7 @@ An inline filament buffer for toolchangers integrated into the rear skirts of th
 - ECAS04 Bowden Coupler x2
 - M3 Heat Insert x2
 - M3x20 BHCS x2
-- M3x50 SHCS (Half Thread) x1
+- M3x40 SHCS (Half Thread) x1
 - M2x10 Self Tapping screws x4
 - M3 Washer x1
 - D2F-5L Switch x2
@@ -53,7 +53,7 @@ An inline filament buffer for toolchangers integrated into the rear skirts of th
 
 <img src="images/6.png" width="400"/>
 
-- Place a M3 washer and pen spring over the M3x50 SHCS (Half Thread) and screw it in to the Switch Mount. There should be ~25mm of the bolt's shaft exposed.
+- Place a M3 washer and pen spring over the M3x40 SHCS (Half Thread) and screw it in to the Switch Mount. There should be ~20mm of the bolt's shaft exposed.
 
 <img src="images/7.png" width="400"/>
 
